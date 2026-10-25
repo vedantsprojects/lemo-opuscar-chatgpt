@@ -1,0 +1,73 @@
+{
+  "title": "Mansa Devi: The Flower of Pride",
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "duration": 60,
+  "scenes": [
+    {
+      "id": "defiance",
+      "start": 0,
+      "end": 7,
+      "visual": "Champaknagar courtyard; Chand grips a gold staff beneath carved pillars.",
+      "camera": "Slow low-angle push-in.",
+      "dialogue": "chand_defiance"
+    },
+    {
+      "id": "curse",
+      "start": 7,
+      "end": 13,
+      "visual": "Mansa appears in emerald and gold, cobra hoods fanned behind her.",
+      "camera": "Measured reveal to close-up.",
+      "dialogue": "mansa_warning"
+    },
+    {
+      "id": "impact",
+      "start": 13,
+      "end": 18,
+      "visual": "Chand strikes the stone; impact flashes into a symbolic serpent-shadow.",
+      "camera": "Sharp impact cut and brief hold.",
+      "dialogue": null
+    },
+    {
+      "id": "iron-room",
+      "start": 18,
+      "end": 25,
+      "visual": "Oil-lit iron wedding chamber; a serpent slips through a tiny gap and Lakhindar falls still.",
+      "camera": "Slow lateral move; no graphic detail.",
+      "dialogue": "narrator_iron"
+    },
+    {
+      "id": "behula-vow",
+      "start": 25,
+      "end": 32,
+      "visual": "Behula kneels beside Lakhindar, grief hardening into resolve; red bridal fabric catches wind.",
+      "camera": "Close-up to determined medium shot.",
+      "dialogue": "behula_vow"
+    },
+    {
+      "id": "river",
+      "start": 32,
+      "end": 40,
+      "visual": "Behula's raft crosses a moonlit river as mist parts toward celestial light.",
+      "camera": "Wide tracking shot with layered parallax.",
+      "dialogue": "narrator_journey"
+    },
+    {
+      "id": "heaven",
+      "start": 40,
+      "end": 48,
+      "visual": "Luminous heavenly court; Behula dances devotionally before Mansa as lotus petals drift.",
+      "camera": "Graceful orbit, hold on Mansa's softened expression.",
+      "dialogue": "mansa_grace"
+    },
+    {
+      "id": "offering",
+      "start": 48,
+      "end": 60,
+      "visual": "Ships rise, Lakhindar stirs, and Chand offers a lotus with his left hand; end on falling petal and black.",
+      "camera": "Brief restoration montage, then still lotus close-up.",
+      "dialogue": "chand_offering"
+    }
+  ]
+}
