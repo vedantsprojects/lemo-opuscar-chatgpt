@@ -389,3 +389,4 @@ You are responsible for the materials you use in your films.
 <sub>LemoLab · by Lemomo</sub>
 
 </div>
+# lemo-opuscar-chatgpt
