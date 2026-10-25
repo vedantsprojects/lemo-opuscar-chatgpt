@@ -1,0 +1,58 @@
+[
+  {
+    "id": "chand_defiance",
+    "start": 1,
+    "end": 6.6,
+    "speaker": "Chand Sadagar",
+    "text": "I worship Mahadev. Why should I bow to a serpent goddess? Let Mansa do her worst!"
+  },
+  {
+    "id": "mansa_warning",
+    "start": 8,
+    "end": 12.7,
+    "speaker": "Mata Mansa Devi",
+    "text": "Pride blinds you, Chand. Your ships will sink. Your sons will fall."
+  },
+  {
+    "id": "narrator_iron",
+    "start": 18.4,
+    "end": 24.4,
+    "speaker": "Narrator",
+    "text": "Iron could guard the chamber. It could not guard against fate."
+  },
+  {
+    "id": "behula_vow",
+    "start": 25.4,
+    "end": 31.6,
+    "speaker": "Behula",
+    "text": "I will not surrender him to death. Build me a raft. I will seek the heavens."
+  },
+  {
+    "id": "narrator_journey",
+    "start": 32.5,
+    "end": 39.6,
+    "speaker": "Narrator",
+    "text": "With love as her offering, she crossed the river between the living and the divine."
+  },
+  {
+    "id": "mansa_grace",
+    "start": 40.8,
+    "end": 47.6,
+    "speaker": "Mata Mansa Devi",
+    "text": "Your devotion has moved the heavens. His life and the ships may be restored—but Chand must acknowledge me."
+  },
+  {
+    "id": "chand_offering",
+    "start": 49,
+    "end": 55.5,
+    "speaker": "Chand Sadagar",
+    "text": "My right hand belongs to Shiva. With my left, I offer you this flower, Mother."
+  },
+  {
+    "id": "final_narration",
+    "start": 56,
+    "end": 59.4,
+    "speaker": "Narrator",
+    "text": "Did pride bow at last—or did it simply find another way to stand?"
+  }
+]
